@@ -1,0 +1,26 @@
+{
+  "name": "Floyd Harmon",
+  "age": 18,
+  "address": {
+    "street": "Olko Pike",
+    "city": "Wocvikec",
+    "state": "WV",
+    "zip": "94866"
+  },
+  "contact": {
+    "phone": "(571) 888-4165",
+    "servicePhone": "800117918"
+  },
+  "birthday": "1977-08-11T17:53:28.453Z",
+  "ip": "161.207.46.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Rocirje ewli tevac sakad efdonu lusare ha nik edeve beffit zu ed denizwi vofuw ovawapvu. Ruswe re fesrajapa di ipe bo va irzafci juwlehka ijime je nimoede ulek keuri buplac so. Jup vu duh med nitraku put femti vubdi jizho vilkulu ramnur jebso.",
+    "bio": "Koseume baclo gic ime geno ki fiakla hitab goc sacpu gocma zauriwe. Worhe powuv ku idugajge zi diimde uvfogfi ob garidiima ipmerig na imopap. Og hukig sar ji hij esa dotoso ize aveuk lubuasa noma wokzel harof dup zug. Warlar gaflu puk fijuk cozbi va kadwa vah zabcig wi evesitube oduji daploji li pibil asa."
+  },
+  "apiKey": "b8667cb28861a9ddf6ea4512e24dc93be2a7e7c154ec1a6c12ee5935fd1a0df1",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
