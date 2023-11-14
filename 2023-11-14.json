@@ -1,0 +1,26 @@
+{
+  "name": "Marie Vasquez",
+  "age": 18,
+  "address": {
+    "street": "Andi Street",
+    "city": "Zisficret",
+    "state": "OH",
+    "zip": "12961"
+  },
+  "contact": {
+    "phone": "(848) 292-4525",
+    "servicePhone": "800592428"
+  },
+  "birthday": "1984-10-09T16:42:42.134Z",
+  "ip": "76.237.126.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Na niwda ba heczi puhedenif luwowe famteaw kanuka fe dac cihsozod luzij vensemcuk coz. Kepic atu towoke uli hu duvimah perwubjus jum etiefkav ziftaga keb afi. Ece po bup miz okenalep ak jojofhev agugi dajeje fisaan vobdod cujon woh. Eke as gis neglacgez dukes baawge li ehofo guv eb we veogadi. Niocu puhomne bohfel zov noehze naho lafoj varuji hag cumev ofli behge fow junu jeha sa buw. Pufekzab eciswuf fir vu micufo alditit do rednu owib wedlajtut fafzi buveh vasaw gukizo vodarmin kokra ovopamej.",
+    "bio": "Dig jo nujhib arasuwem erivo ut ut lafwinid mi upole oliobewe he tad pubewusap rutobig paguz kukpage. Lagfez zisketbef ilugihmof gufital ol ku pa hum surusrib pelu bottezhi hogkode ilvo juveniis womu zak. Wa apwibod etzu diubozi opbagod sunos meefte tihmujfab kuepu ji jenebve ivogi mir bofoto. Rocur deh di gimluc somorme aroohcuj zuk educuw zuw iwuwvac gic cegedfik."
+  },
+  "apiKey": "aa6544eb1365a47769258fbe699f333d8d7bd38f5dd1465750fd5c64d196efa7",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
