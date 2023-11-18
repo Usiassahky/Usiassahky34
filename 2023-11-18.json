@@ -1,0 +1,26 @@
+{
+  "name": "Anne Evans",
+  "age": 42,
+  "address": {
+    "street": "Batem Park",
+    "city": "Atitokka",
+    "state": "WA",
+    "zip": "34222"
+  },
+  "contact": {
+    "phone": "(805) 209-2596",
+    "servicePhone": "800446844"
+  },
+  "birthday": "1978-03-01T12:51:44.971Z",
+  "ip": "27.109.117.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Suf jorej cowzauha kihwodi kiztoru upuwos zaifolo hip zitunot to cec tawhajsan. Ohivazzuz bivos rosem uj omahar vazbop ep ezuvu zug jajca wo kifuka feruhrok ag. Fu faguzo sov ta seninon zi mav laj cowidloc nuboref zo lor zagehpes fupehpe rar luvut omi. Zodubse ri heviowo uz bu ilihevew zujca doen sigkaun ignac amge feg soabemi pazpugzur eciwnu alhucver mi. Atukara fe hado jegikit wocjav edamof danca emofajuv ecjengel opoangep bu hedkiul ut nomjefuc oka gebripvo maj eb.",
+    "bio": "Ge robzo ikakok puucu zevza woscavi itikipbel volpilduw bapa nuczuf paagi ivunij sa. Azzarogi cebjaz begindu doz ejejuvi ce nacifzu mov gunaos amunij mokkanmo ubokerev imiwuta on elo. Fazok sej dokger maruf ozowosad hihuhoka vo eweuf necsic ceh meta cujedpoh uhunat oduhli ihomemit iki. Awibuuc hinapi odgibip kadseslor si movwi uv luzaga zumbo uv du taha wiw sizojjod ezaminto zupaja."
+  },
+  "apiKey": "c944e6dab0a6f2725fd61b80fed44948b845f7c0da3c3c8b1b9790dcbdad6b50",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
