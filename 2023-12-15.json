@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Atkins",
+  "age": 33,
+  "address": {
+    "street": "Invav Pike",
+    "city": "Busujel",
+    "state": "OK",
+    "zip": "16242"
+  },
+  "contact": {
+    "phone": "(521) 757-7963",
+    "servicePhone": "800744418"
+  },
+  "birthday": "1969-09-15T09:16:07.520Z",
+  "ip": "222.32.44.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Ipolib ub pabovi ruud nom pof jukrajji jutjoppef veku ev ibagear hoc ojoagiti razogodo ner odu epakeda. Oravuw ugikowkev pamit gihtif pobaojo zawa ez diwigoj am mivoir gid imcuodu ajo oheho viuseopo wocguddaw wejuh ditelmi. Mina fel ibnub odaok ap rejkib etefon asnupna eda suruf bugjekor doaritof. Cuko furas moofazag or noztaj ivitil hamobi juim ipala kel dijugo puvtuhjow avemevi setuper. Bazzezmi foiga cib paehi sutmijdur rec ugowodis fusi tiuj piver ifkium vula cok jekvezez bin jino peno.",
+    "bio": "Na sutid nezibpo we bu makzewat tiecagob cuzdumcit togu maha vipir puhkagdi wiminpos guhepsa. Roz eskapik pi jec vofiavo wujjufi ajha ja za mapazide zaj hiwe noho jeptiwalu ogpupbid. Mo muncifi lopem moip rokdod gahwe pagzatmo najnaz pikonozo lob vendornu wuhar. Ragaf ifhozzab hugwihis dosommor carsudag pugo appi ijbofre burrec zel mu omos ukbadvud sa ok uppi. Labrem zatado merciz ikoirakat miwauhe rotig sovbe ezetatko ifhuka hezavdeh ar mehiglap. Uraz bekali cap julkak mu zuphed zi vuzed koh tidzuguk kesu dit viwud munit wa vodvac hate. Onupannis mokoloris hemac pidtemi jejget wimfuboh pipazo jihlod gesecus bidedorep obvez gapbaoj kodhi ufsutku."
+  },
+  "apiKey": "10bd938dd07b4bf3c631144fa392cc05ea9cb1a7ea7471e08ba14025016af8ec",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
