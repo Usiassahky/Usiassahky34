@@ -1,0 +1,26 @@
+{
+  "name": "Devin Austin",
+  "age": 35,
+  "address": {
+    "street": "Pibok Square",
+    "city": "Vetwugi",
+    "state": "NC",
+    "zip": "02839"
+  },
+  "contact": {
+    "phone": "(756) 808-6234",
+    "servicePhone": "800946631"
+  },
+  "birthday": "1971-05-21T20:07:48.164Z",
+  "ip": "181.251.78.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Teiz jo esiemsu wa vut baj omke nuzlo pug ju miza fattud zobudmo fivoleta. Wustev wizigvav ibgo sahitnaz dodrola jokgu gavreh ro lelcicheh riah inpoj dumtejep pilnaczo oheriw ciw mokdetob wuvohefap. Ceh jil duvwaob ehija nif uhsada tov jalme ipwizli cofood orep ikbage mouvbab vamigod. Edgeniku sol edugejhaw dit sun potesejid sanzepkor tuaba deh ven ma dividovo vifaiw.",
+    "bio": "Carzi reokcel sa vofep ifgob zemajij anugebko po wephouza asejom ke go ko ku. Vommieme caw tabce hezwi alvodkuh pumoszin tikaka coputop wofboj rov boco sisa. It le rizuk udicfe zileles pobo uvuzugeh jogsidgel unvuis teg afuso sive."
+  },
+  "apiKey": "8dffaa995b81c612cac3b284c7f8fd75278c40138425b190aed36f1e3cf911d7",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
