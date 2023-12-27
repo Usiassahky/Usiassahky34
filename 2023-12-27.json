@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Luna",
+  "age": 40,
+  "address": {
+    "street": "Pitohe Pass",
+    "city": "Vuuvone",
+    "state": "MI",
+    "zip": "27162"
+  },
+  "contact": {
+    "phone": "(832) 360-1227",
+    "servicePhone": "800219712"
+  },
+  "birthday": "1981-12-26T18:56:25.910Z",
+  "ip": "162.49.182.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Dasote ivpihe gevcozlip vokof idka numhuv du er meagodat ibadijeh ludhigun nopjo. Agoemo ibolino ulmo rofidef rurakej ehegiji pizimiwu rahoja cuperma molfat fiv eru. Canzihga lepif zeftekfi winot ju vew hefigo ofu kepigtuk kelkem co ic wol ral. Kacmanzon dutal kohger jul med tase ejjogbeh nipa fal imebis purkodoh bobupke bej.",
+    "bio": "Rivigozo jevoin gijhok zalgeru imhalu awhikot pudjufsu muvin lukcuwis eflonbid vohes upiaweem suvvivgez id vaznerub acu ciojo. Wawun ifaz kop nodcum upselju maiw al saed cuefiuvo mop ib so gohuri od. Pi ri lewojuvu tuzijo enafun oc buvhortuf ew satfi ahulu opa si satul in upi ibimib bepca."
+  },
+  "apiKey": "7cc0d8094f2c3543e511f80766f32c4a54752aa63d0c467f5ed17686776d8c77",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
