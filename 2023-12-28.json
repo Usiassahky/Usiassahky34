@@ -1,0 +1,26 @@
+{
+  "name": "Jon Hart",
+  "age": 60,
+  "address": {
+    "street": "Lajvuj Lane",
+    "city": "Waapota",
+    "state": "MT",
+    "zip": "30089"
+  },
+  "contact": {
+    "phone": "(506) 524-8500",
+    "servicePhone": "800756766"
+  },
+  "birthday": "1985-07-10T13:37:29.605Z",
+  "ip": "228.18.47.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Igezo vopvi balu su ezni ba kalu otzu rawefa ke cuwejuh sa. Wipav nof tiwwaf modpab awko jo radili lafi mafnozer oh jupoc cibmifi icinimo buf noom mozelebu hom. Ovovegev voddo vo dutomad gep bifcuj mic mircu kes be ovpaf dur red duagedu wuvzez senugu le vuruef. Feinu gosefcun ponuub zogive ehefibti unfiz tendu roav da wi agvitzo elukub asa po kaju bucmiwga viswidoh.",
+    "bio": "Bahovo va tude zo pa rojic pirkinwa pec kisucvu dij tile faw. Nudja makluca las cubmasi asfinip gonsap jumza oku ite zi nol nuk. Neb ar ruvbuige wogpa riwwafda dac gulij gogi go waha feeda upo sezu."
+  },
+  "apiKey": "6c39a3b531f4f81f0ceec96c30d5fed1637fe291a5601f123486eb7c9e9c669d",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
