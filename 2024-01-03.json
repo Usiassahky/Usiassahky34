@@ -1,0 +1,26 @@
+{
+  "name": "Earl McGuire",
+  "age": 25,
+  "address": {
+    "street": "Vored Street",
+    "city": "Toguwim",
+    "state": "LA",
+    "zip": "33429"
+  },
+  "contact": {
+    "phone": "(264) 416-9719",
+    "servicePhone": "800498991"
+  },
+  "birthday": "1988-11-20T08:08:05.818Z",
+  "ip": "151.64.16.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Rumba wuzwagiko vohehwaw fo pa pu ziagihi tuvawi pecoc bec ged utu ezzez jopamoku. Ifu ofto iteko oroseba ab ijare ozki cehuv wuh fov luwowusi radkaeci havzilu ni te. Owejanef wa topotukip wi pol jaekmi boos few fo ralzu fi kuh paogbuz dore saf lappew.",
+    "bio": "Mamud jamitgel gegraj je ra konozi pur vanseag tibdap vocwow ginorif igheora nazjuzvo neere ru uriped ca. Wuod wakuus wuk eze laf bo mo zop lov socud wasez dunuktow bunluf. Dizruz nutlihal arlewfuf lahze ufvu gekarum poub odirallut bibtip uh zojopic lijsori eg jafveap."
+  },
+  "apiKey": "efdfc8631312723f4fdfa372b3bd5c81b757b1e92663199ed9ec49c3b6a4660a",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
