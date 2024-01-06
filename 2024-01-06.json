@@ -1,0 +1,26 @@
+{
+  "name": "Jose Roberts",
+  "age": 41,
+  "address": {
+    "street": "Cuncez River",
+    "city": "Gusamde",
+    "state": "IN",
+    "zip": "63708"
+  },
+  "contact": {
+    "phone": "(558) 518-3249",
+    "servicePhone": "800244196"
+  },
+  "birthday": "1966-05-21T09:59:45.125Z",
+  "ip": "139.197.138.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Pihami eko si gazmid kubahke ga ja zuike bu gokaohe ib irilaafa fok datle ni po be opkobew. Pad suuraj pomej et zijruube wajhet eslupuga ru gir pitetup kedalitu buoze minwiwku zalil jaw pe fuloco ba. Epeolre ohu ore cu ames wib mefafi geha oscifu gebebi ak gudpukem wewuzlas jesok kiheb.",
+    "bio": "Cujadosar kakuiji hiznotso wocero uja jeplene ne ceco ropvi odiawepuh todu ti. Diusaw befzi zohak rekmokan ezamejne ufu cahepof ul durih pugavka metmegipe imto wivaok irjezfas nuhehsot. Sat isabile cufapivo tewop matna fet elojufvap mapkiz pobbodag ko nisgag napirit ot jero nenalpo ja ikgob."
+  },
+  "apiKey": "3d47563a1202af7e2f33fc3eb61e21241bcbd7f167a3cafae3f5b064fd823d18",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
