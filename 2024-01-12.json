@@ -1,0 +1,26 @@
+{
+  "name": "Cora Miller",
+  "age": 43,
+  "address": {
+    "street": "Hudza Square",
+    "city": "Pivonali",
+    "state": "NE",
+    "zip": "36160"
+  },
+  "contact": {
+    "phone": "(510) 486-6649",
+    "servicePhone": "800197278"
+  },
+  "birthday": "1981-06-14T14:30:27.643Z",
+  "ip": "49.175.170.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Bumib zed laaka mizo hedsi cumsu gupdi joba tudev evegak co imur huz baz rad wa zabliz. Dovboc no osuog dovwa dif neajecu nuhuam riha vugip cuv surem diikiru. Nibji vuob ar cefa lubapo wu te nik pumfalwic zimil usaaga nilbe bokursi kawtabzo gutwi fafaahe miduzovot wogago.",
+    "bio": "Difuzci gifdu ledwabu vedwiji faw umu juvmog bepo ju oh litriab in osaho ladi ne gupu eko. Vuv me ja gegzigsi pepsol pat baomad ud ivogouwa lujnuba ojoju sasgic. Gumvad sav sus pa jimrodup ib fahof rijo nupon hokjehab teihoriv us. Os za we kig ubezomvap zuvgi uwobeada jimu evri pig ugeic sofwip kojnufac zudki tuuha di. Atimalzo tugis voceh vim ale gub hes wutfula lukhat gaov eneronowa tav vubrop mos mipdema az tuikojal. Akiguti ziplis ci natcesifa nuhzoj cavna vo nokakov faama won ir bu. Vakolho ro jumuro origezlez fe ruta ceev nofmo biuzduz ofjobova piocju jeckoje lo."
+  },
+  "apiKey": "1eec20d90f874f2832c20db6fd24b14105729fd3f05e9f89dbf97d3229928c00",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
