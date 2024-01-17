@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Owen",
+  "age": 44,
+  "address": {
+    "street": "Tice Way",
+    "city": "Lifolrag",
+    "state": "ND",
+    "zip": "26559"
+  },
+  "contact": {
+    "phone": "(463) 587-1763",
+    "servicePhone": "800643972"
+  },
+  "birthday": "1969-04-08T13:33:35.919Z",
+  "ip": "247.86.254.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Lecez zu wejjaak je ido wahbem malsibbez katga cefi pokic dat ju mug wefih bih liwiij. Puwdumtin rupcaz dab cavju basejal mupeibo ofeazkog la op nonu nozcadof dutedta belnozos mifibej wihtag. Gewokro wub gat buzje junpidcej ivodoted wajonbi tabe ze horti wum batepo zendul. Ne wohzog boluk od huebgol tusifuji supa dortihor rerupa ati maerebit doene ep doj wetcovzuz kewas nenlenac nejohguj.",
+    "bio": "Ises piziw matomeb ad iteel los ib fevmit ijnetu fafnehoz ku bi ag rabewzuc te rupezewu afiboc. Maboah cuil emfeg ru ozuti ho ollirtih lipus zoige cithen ve ridjo bedos teja ivovu mifpeli ejures. Co rihipgo wi woeje vafah wanan podsawot ewuma eggo omora reormo co hu gipobe ap ibluave."
+  },
+  "apiKey": "c802af98b33dd7a35307a20c96cefa95378c0b27c7f4ab2c8cdbd9e24f7c8155",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
