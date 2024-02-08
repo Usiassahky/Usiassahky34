@@ -1,0 +1,26 @@
+{
+  "name": "Sam Pratt",
+  "age": 35,
+  "address": {
+    "street": "Koded Center",
+    "city": "Avuhute",
+    "state": "AR",
+    "zip": "51473"
+  },
+  "contact": {
+    "phone": "(871) 983-9285",
+    "servicePhone": "800277713"
+  },
+  "birthday": "1979-10-04T18:40:22.551Z",
+  "ip": "192.234.235.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa sen nek jekawi obo haz view tovosi fucouso uzohifo dinrikad kuzlifek ecir ad. Kemifki reca tabbodto re turecu ekjib wilbitcug jemevure emaudimij ivojukog sa ti pamot ertegnov gas gowbu pufketu. Ig ewakazvos tizgenru codaze gikbafib gejbe seuh vohlo rinorose ob fu cim nundoc tuwiotu zaja.",
+    "bio": "Fa vi vacudagol farbus ucwod mozoj fansoh netama we vetouho ezpo cu afo dihactut wic waughob. Gon wihsow lo gice fukitli mizwidod zijutol ku kuvzahag ovi la di mespihiv ceowo og. Im kem ge cebiraj hu tec dobe suza gonawo kucogsi kiwdi cimku lovi ipugompij."
+  },
+  "apiKey": "4dcc2d29e313851519e58c89efe0f7a1e2a13304b142e49cf20b503845e429ec",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
