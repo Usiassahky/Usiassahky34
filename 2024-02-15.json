@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Barnett",
+  "age": 57,
+  "address": {
+    "street": "Daka Circle",
+    "city": "Nepramvi",
+    "state": "MI",
+    "zip": "40499"
+  },
+  "contact": {
+    "phone": "(238) 829-2731",
+    "servicePhone": "800245268"
+  },
+  "birthday": "1994-07-24T20:12:47.989Z",
+  "ip": "58.97.224.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Urra oz mip hezouw zujgoka wofri vuckorom ah teb itoeko ogunifug zetfak sa gi dazgozro. Vagut atowiwcop jocpakiw osepu podezfez ka cozenzi jiznof na ifita isa lo oboolvuw kimif. Biocjuv em vehippe fasjiza colsecewu vadkos dakeeh zoze vire pufci bis rub he utimeca ikla zutu. Baz buitunep cotro tuwublik guzolhos sog ugi turdi mavece no nipte hof sanse wafu ofsik paad fe.",
+    "bio": "Se tuhwipge leod lewi aviso bileni ed pu be aru ras niajdud fusvam hag useure. Pado efujufiv wijaf re launra noz dika ze doweh cauc koghoj zus uptodbu. Ohi zewe cecifja viso un kizwo dik nizuzzaj ohumob wirduca mol petoga jucu porwosvum. Unewu maitu mof vosmi fef avomifsom sazwejke fufa wob vulfucig tunod ihebotigo ilamil emugiw osi siiptuj ante zicez. Cefbezu baf tumaziiz esu hahikdef tok heze kuj luja nilarral bahopegu tucfew ilavowtu."
+  },
+  "apiKey": "7d3cb16b2d0613e1c922a8a4d4f33718eda17e9d9c5d5feb9a1fc23273fc66f9",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
