@@ -1,0 +1,26 @@
+{
+  "name": "Anne George",
+  "age": 62,
+  "address": {
+    "street": "Ladron Lane",
+    "city": "Piteiji",
+    "state": "MI",
+    "zip": "16569"
+  },
+  "contact": {
+    "phone": "(505) 929-4993",
+    "servicePhone": "800515853"
+  },
+  "birthday": "1970-12-16T10:07:49.804Z",
+  "ip": "97.241.156.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Pout gu zatsuk guko walefe behpa zedroh bebacipe fa ig jud habhumag. Pigane ha elzuzuc wum zuoh wapboj tammusa eha bunes sigu cezipo rugi davajdad usaliza. Cadetdaj ogowegum in wu de wihis atosapgo netovo iz evvemcaj vec if iz uniewik dusdato huhcowe cajeive. Bi dazav legeruv fa nuruj gi cefod mepannel gaj wukekub ulupo rubo basmavun gip imca soppozej ra carcer.",
+    "bio": "Haba av ril tih ipozoz ogu wogeze sapiopi wa huigpe pejus okuh se. Zolati fibijug secmijvek siwbur mag wawdouce deuh dizmafwid leb jesumut sebcengol afe ap mecnuoj. Bo hehke poake lib pufodon kiwnev cu avewnif iz nuvaslo onawiv mose uctof ho fet ne. Horuzure utiike dohdi von kanhutaf afulakus regil wur lu gojar kuv bejseg zuleseg cikle bibi tunice."
+  },
+  "apiKey": "34fb9557e2d359e39092f637c27b1ad2c0d7a08c10937f3b99c9acffa55bf96d",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
