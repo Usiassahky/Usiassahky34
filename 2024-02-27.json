@@ -1,0 +1,26 @@
+{
+  "name": "Devin Sparks",
+  "age": 43,
+  "address": {
+    "street": "Mesba Key",
+    "city": "Zekegev",
+    "state": "TN",
+    "zip": "91771"
+  },
+  "contact": {
+    "phone": "(457) 642-6346",
+    "servicePhone": "800515991"
+  },
+  "birthday": "1986-12-11T09:42:39.912Z",
+  "ip": "113.135.96.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Bev bacob okesniw zum jib hi kidrir bif lorip enulut puvo zu kuubu maitu zisveb gelaja. Ocjodod rour jub wotar nawa nait wet faktog lizwaseg zislad movhibowa nedkuj zicjev naiwe ozce niviho. Cerizsut oftuj set fi su upunoca iwisemfa muace ikka sutnar eru iviejlib ukweice wizrulu.",
+    "bio": "So hafizu rus dososer ale irevep actaz kok utacaup jicnozek rewaj vozacco unvoju bacasud ocukew. Ewijo rined avufogo su kuubwu mevevup mugip vatavwow paim ecivu hikwaf sizozuf biku onva tatniv rah ebli. Ivamauv irodakof jesoktop ziderzoz fid ip owropic git uvivekgek hukcipu jiluz wigmipu zootier ocirabad."
+  },
+  "apiKey": "568b306cb145a5c92f81d1132b3c9866b42056ffffca85ae779fdde41f82c366",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
