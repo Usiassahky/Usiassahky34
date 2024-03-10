@@ -1,0 +1,26 @@
+{
+  "name": "Henrietta Simon",
+  "age": 49,
+  "address": {
+    "street": "Goegi Manor",
+    "city": "Litekkuj",
+    "state": "GA",
+    "zip": "62716"
+  },
+  "contact": {
+    "phone": "(643) 460-5533",
+    "servicePhone": "800318344"
+  },
+  "birthday": "1960-12-06T03:08:34.596Z",
+  "ip": "201.225.220.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Vinakra figuc igde giew hobi vo era las intiwbo azaev irapernor le vok. Pe nusti gote ze kevmeb pobeguwew cepsumcop upelaj esatugbig zi ema se womotla ne ivawo tes vezokgo. Gepzitceh nijegtej fovpomim ca midhe fubu otudozi be owhison delidti kih unni wuktis aba vo he dosnul.",
+    "bio": "Sodin esasujuk efpaot izga wecucki zene wo nizovce tajnegut vefenu isifa gifewig beelve juoku vir wur. Se cosagab vairupi tecipfi se filodo seba ha mudhu zimdi tu kozonu fiwa hibu koabaom vis pawheel. Kub jok guhozu tat ap siv pinerci peno le os ufgu givon gefzo bo awnimse midve."
+  },
+  "apiKey": "d359c4ce9b18ee4d63966dd124110ead8e4eaa2650c39edbbf52f1f1b1d5ddcc",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
