@@ -1,0 +1,26 @@
+{
+  "name": "Martin Rowe",
+  "age": 42,
+  "address": {
+    "street": "Dofer Extension",
+    "city": "Fanvawhor",
+    "state": "CT",
+    "zip": "44907"
+  },
+  "contact": {
+    "phone": "(305) 308-2739",
+    "servicePhone": "800265753"
+  },
+  "birthday": "1981-11-10T23:35:54.216Z",
+  "ip": "125.211.216.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Nikewjer zu fal gofa gab jocuz peki kabna irutiren fervak rufi timofale caw. Nadgis jec pobzoami dog edi fubovgo lu sagago cadobe he isa detfuv naakke ku tununugo sigovoek cocesi. Guj hokkavip saekuzu ugro pug hag kadouk cazfukar uzo wa tobco hodeptu owieno. Vevunfun dojjem vitsuf soteja di pipe mu evonit vedef pujav nepfokhi id ze ru hav roga bumila.",
+    "bio": "Ma nozjizeva ed lekon ehidu lolduloh zi jirnela saclon pilit ka zujeddo wirujak. Soor vaf wiv ruimoot ulesuzu zuhuphu tuvmabja weuv jag rucnituv gu mevfa guin up fesancu poppo ena mowuj. Nulozef rah itizo esohidi ficel sun ik wa rujcagka fuw dil di nejunojaw rop coftoel niwpes cizowmes nipew. Tukoicu kusas ke enecuf ew vu zato ufeside mizer gitebder boj peko sizin habzawel com. Ci joha kunsikbu taw dunmem aj kut logepvur bafkizi zuzwogaz uke ivusumas mu pi vi tutoffog ofiog wumagi."
+  },
+  "apiKey": "9ea0be4e8effb7f94e48f11312ab9541fa386b09db34d473e8a8da6bc0e3763e",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
