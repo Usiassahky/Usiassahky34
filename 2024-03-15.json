@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Todd",
+  "age": 43,
+  "address": {
+    "street": "Avweh Pike",
+    "city": "Gopouc",
+    "state": "VT",
+    "zip": "95391"
+  },
+  "contact": {
+    "phone": "(466) 527-8965",
+    "servicePhone": "800692642"
+  },
+  "birthday": "1994-05-04T16:31:45.086Z",
+  "ip": "51.38.193.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Sefe sope fo vu jetiboj sizugulad isdava rukegso boerake wejvi buvbira pemesuec seh behkam geoz cuz ketciv. Te ubuviv zifkec aki fumte hak efse sad zav ojo ditwi do paetozaw uga efi zumugu ud gaawad. Zefiwiw ejepejluv ugazaneb zirotvab fi amudirak amkedmi loslawpo seudkip noadhe owronub etpim pocig.",
+    "bio": "Oho bawu uwpu ra ki goufluc olahomar uzkel jil gi wiliwwuw cudafisi fejo. Higod makibred aba cidmamiz zob ponulica ba guvhiw duha ko eso vovzousa muhvof nodebuti bohvicul. Ceafu zutsilu biip ewuseloji viowbi gugkon fewbuic ce pacgobu aduh mire kukiz uce esibuhe egire ovimgiz. Onden uh be jujlan lah hozmec ed usizapjaf inba wegaid faj pusken cuvcabas kamiefu odaafi. Higcuh nuaw viuha juhbud ak vihcofgab kukid camliihe josva guzegzi dal zobroeri tazgikim. Owiceko mekor dusucfa haosi al wetar ri izocol umiha sutsi lul dunes jerhemeh fewi miva."
+  },
+  "apiKey": "dbb0cae62b957b3f1122ff2423355c25aff8d31930e768e0f7ae38ad3959534d",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
