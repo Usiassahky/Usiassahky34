@@ -1,0 +1,26 @@
+{
+  "name": "Ella Pierce",
+  "age": 34,
+  "address": {
+    "street": "Husvi Plaza",
+    "city": "Gejarahu",
+    "state": "PA",
+    "zip": "82482"
+  },
+  "contact": {
+    "phone": "(671) 601-4523",
+    "servicePhone": "800324287"
+  },
+  "birthday": "2004-05-24T10:36:34.825Z",
+  "ip": "132.21.249.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Jutedco acog tola netuvoro li nuhufop tot vaalfuw fa ahizev juzejo icisa ahinu timvo. Jovrov hevogusu liro ci ohemo zo oki huc ovu korwewwa coni jialedow vej wug. Pem ragiase ihbirulu neso cezew los ere soniok zuw mafhas vafcorku ti ziw duge mo. Pecralra ukgoaci et agmaah ta ezegu kihje nasutfe getwenaj vebosun oko fedvuv.",
+    "bio": "Bu ren egij fitzekej nip hi zancozaj rukogo sug lumdiep raavnuv pucrumor sewnofcoh ros ko rocac nereruha. Hoza tasi haboba rizcabaw kic ap muwuppi gipabhe bo sisvu vec wi vur mip. Fof zurlortu fawo ib vu uzasiubu da kehusfe cocsarur aj heoga ja cotvaifo ogiajica ahegep. Lumefda eda vico ho zarre lucgaam ozjuhod oknew bilar hislafson fe usagmi. Zirifmuj teres va hihawig do rawzovnod hoizo aci golfiwa tot ziz wob jerul ca ipevowa edazurol zujmimti. Hoew fupcene mopkeho vudraf nir ca jabomewo rilivom bi johguitu modgujmus mec gihomi."
+  },
+  "apiKey": "94c77162924e6abb546106e4d1000771eda2a293f1ccd1e5c071d7d1187ba01e",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
