@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Peters",
+  "age": 20,
+  "address": {
+    "street": "Reeta Manor",
+    "city": "Akivabuk",
+    "state": "MO",
+    "zip": "11279"
+  },
+  "contact": {
+    "phone": "(989) 798-9800",
+    "servicePhone": "800927494"
+  },
+  "birthday": "1963-05-13T17:39:53.325Z",
+  "ip": "143.175.223.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Vibiw ze jujfo pisazwu aseez lag kuweci okise uzu ine piczasci najwi fib bojof wol in ziaktu vigpo. Tamgub huccedije gu vozpuep distoz dehdo lobbir zinugkaz kizo efa goube nabukef wosmibi kugdelecu. Hu ekuliig muod vatic wok roniv luv aha asubha ja imaevezal efzouda muwokha za cuefe faradfo jasete.",
+    "bio": "He col vitkovzat lunno le leho ku ahjimbu wumo ucfik du jus acaetvo nucubi. Cuguh tek siacuri detoc weov ukasatsuk dehaar afo vadku ohaz kivsiv wavisaifo jeahsu jaabo. Jupajo joac waha erfosgo fu la ku toncoked kujtowur jirgambuf parta ananop dizu susuk ofaofo joalme zakac zihni."
+  },
+  "apiKey": "47d50a3374e22cc966987b985980f39f52a64d302fbf79fa0ff4fe01946f7a58",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
